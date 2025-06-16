@@ -392,7 +392,7 @@ const content = {
         img: aboutImg1,
         alt: "Imagem profissional de escritório/advogado(a)",
       },
-      miniTag: "QUEM É A DRA. ADRIANA SERENO",
+      miniTag: "QUEM É ADRIANA SERENO ADVOGADA",
       title: "Minha trajetória",
       subtitle:
         "15 anos de experiência com uma advocacia próxima, justa e objetiva.",
