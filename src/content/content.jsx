@@ -6,6 +6,7 @@ import heroDefaultImg from "../assets/imgs/hero/lawHero.webp";
 import backgroundPersonMobile from "../assets/imgs/hero/bgHeroMobile.jpg";
 
 import imgFeatures from "../assets/imgs/features/imgServices.webp";
+import imgLabelAction from "../assets/imgs/features/imgLabelAction.webp";
 import imgDivisor from "../assets/imgs/features/imgDivisor.jpg";
 
 import aboutImg1 from "../assets/imgs/about/aboutImg.webp";
@@ -452,6 +453,33 @@ const content = {
         labelLinkedin: "Siga-me no LinkedIn",
         labelX: "Siga-me no X",
       },
+    },
+    laborAction: {
+      miniTag: "ATUAÇÃO TRABALHISTA",
+      title:
+        "Atuação na defesa do trabalhador, buscando garantir a reparação de injustiças e o reconhecimento dos direitos previstos em lei.",
+      text: (
+        <p>
+          DIREITO DO TRABALHO
+          <br />⚖ Principais causas na justiça do trabalho:
+          <br />
+          <br /> • Demissão por justa causa
+          <br />• Vínculo empregatício não reconhecido
+          <br />• Direitos da gestante
+          <br />• Direitos do empregado doméstico
+          <br />• Adicionais (periculosidade, insalubridade, noturno)
+          <br />• Rescisões mal pagas ou não pagas
+          <br />
+          <br />
+          Orientação é o primeiro passo para fazer valer o que é seu por
+          direito.
+          <br />
+          <br />
+          📞 Se você passou por alguma dessas situações, entre em contato. Vamos
+          conversar e entender se você tem direito a uma ação.
+        </p>
+      ),
+      img: imgLabelAction,
     },
     cta: {
       backgroundImg: ctaWhatsappImgBg,

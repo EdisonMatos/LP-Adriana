@@ -13,6 +13,7 @@ import FloatingWhatsappButton from "../components/interactives/FloatingWhatsappB
 import Maps from "../components/sections/Maps";
 import TeamCards from "../components/sections/TeamCards";
 import BlogPosts from "../components/sections/BlogPosts";
+import LaborAction from "../components/sections/LaborAction";
 
 export default function Index() {
   // Altere esta constante para: 'default', 'light' ou 'dark'
@@ -29,6 +30,8 @@ export default function Index() {
         influencer={false}
         mesclado={false}
       />
+      <LaborAction />
+
       {/* <BlogPosts /> */}
       <Features
         colorMode={colorMode}
