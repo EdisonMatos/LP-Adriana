@@ -6,6 +6,7 @@ import heroDefaultImg from "../assets/imgs/hero/lawHero.webp";
 import backgroundPersonMobile from "../assets/imgs/hero/bgHeroMobile.jpg";
 
 import imgFeatures from "../assets/imgs/features/imgServices.webp";
+import imgLabelAction from "../assets/imgs/features/imgLabelAction.webp";
 import imgDivisor from "../assets/imgs/features/imgDivisor.jpg";
 
 import aboutImg1 from "../assets/imgs/about/aboutImg.webp";
@@ -59,8 +60,8 @@ export const infos = {
   domain: "serenoadvocacia.com.br", // Sem "www"
   phone: {
     ddd: "21",
-    firstPart: "96489", // Apenas os 5 primeiros números (incluindo o 9)
-    secondPart: "3134", // Apenas os 4 últimos números
+    firstPart: "99453", // Apenas os 5 primeiros números (incluindo o 9)
+    secondPart: "8118", // Apenas os 4 últimos números
   },
   phoneSecundario: {
     ddd: "A_Definir",
@@ -75,9 +76,10 @@ export const infos = {
   endereco: (
     <div>
       <p>Endereço:</p>
-      <p>Rua Cambaúba,</p>
+      <p>Rua Cambaúba, </p>
       <p>nº 167, sala 201,</p>
-      <p>Jardim Guanabara Rio de Janeiro – RJ,</p>
+      <p>Jardim Guanabara,</p>
+      <p>Rio de Janeiro – RJ, </p>
       <p>CEP: 21940-005</p>
     </div>
   ),
@@ -124,7 +126,7 @@ const content = {
       ctaButtonTextResponsive: "Contato",
     },
     hero: {
-      miniTag: "ADVOGADA TRABALHISTA E PREVIDENCIÁRIA - RJ",
+      miniTag: "ADVOGADA NO RIO DE JANEIRO E REGIÕES",
       title: (
         <h1 className="mb-[16px]">
           Você tem ideia do que
@@ -390,7 +392,7 @@ const content = {
         img: aboutImg1,
         alt: "Imagem profissional de escritório/advogado(a)",
       },
-      miniTag: "QUEM É A DRA. ADRIANA SERENO",
+      miniTag: "QUEM É ADRIANA SERENO ADVOGADA",
       title: "Minha trajetória",
       subtitle:
         "15 anos de experiência com uma advocacia próxima, justa e objetiva.",
@@ -451,6 +453,33 @@ const content = {
         labelLinkedin: "Siga-me no LinkedIn",
         labelX: "Siga-me no X",
       },
+    },
+    laborAction: {
+      miniTag: "ATUAÇÃO TRABALHISTA",
+      title:
+        "Atuação na defesa do trabalhador, buscando garantir a reparação de injustiças e o reconhecimento dos direitos previstos em lei.",
+      text: (
+        <p>
+          DIREITO DO TRABALHO
+          <br />⚖ Principais causas na justiça do trabalho:
+          <br />
+          <br /> • Demissão por justa causa
+          <br />• Vínculo empregatício não reconhecido
+          <br />• Direitos da gestante
+          <br />• Direitos do empregado doméstico
+          <br />• Adicionais (periculosidade, insalubridade, noturno)
+          <br />• Rescisões mal pagas ou não pagas
+          <br />
+          <br />
+          Orientação é o primeiro passo para fazer valer o que é seu por
+          direito.
+          <br />
+          <br />
+          📞 Se você passou por alguma dessas situações, entre em contato. Vamos
+          conversar e entender se você tem direito a uma ação.
+        </p>
+      ),
+      img: imgLabelAction,
     },
     cta: {
       backgroundImg: ctaWhatsappImgBg,
