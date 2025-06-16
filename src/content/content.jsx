@@ -75,9 +75,10 @@ export const infos = {
   endereco: (
     <div>
       <p>Endereço:</p>
-      <p>Rua Cambaúba,</p>
+      <p>Rua Cambaúba, </p>
       <p>nº 167, sala 201,</p>
-      <p>Jardim Guanabara Rio de Janeiro – RJ,</p>
+      <p>Jardim Guanabara,</p>
+      <p>Rio de Janeiro – RJ, </p>
       <p>CEP: 21940-005</p>
     </div>
   ),
