@@ -59,8 +59,8 @@ export const infos = {
   domain: "serenoadvocacia.com.br", // Sem "www"
   phone: {
     ddd: "21",
-    firstPart: "96489", // Apenas os 5 primeiros números (incluindo o 9)
-    secondPart: "3134", // Apenas os 4 últimos números
+    firstPart: "99453", // Apenas os 5 primeiros números (incluindo o 9)
+    secondPart: "8118", // Apenas os 4 últimos números
   },
   phoneSecundario: {
     ddd: "A_Definir",
