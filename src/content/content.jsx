@@ -125,7 +125,7 @@ const content = {
       ctaButtonTextResponsive: "Contato",
     },
     hero: {
-      miniTag: "ADVOGADA TRABALHISTA E PREVIDENCIÁRIA - RJ",
+      miniTag: "ADVOGADA NO RIO DE JANEIRO E REGIÕES",
       title: (
         <h1 className="mb-[16px]">
           Você tem ideia do que
