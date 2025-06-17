@@ -26,7 +26,7 @@ export default function Quadrada({ appDownloadButtons, colorMode }) {
       <div className="relative z-10 flex w-full items-left">
         <div className="w-full text-secondary justify-evenly">
           <div className="h-[120px] phone2:h-[140px] tablet1:h-[150px]" />
-          <div className="flex flex-col-reverse gap-[40px] desktop1:flex-row desktop1:justify-between mx-auto w-[90%] max-w-[1215px] items-center pb-[64px]  desktop1:pt-[68px] desktop1:pb-[96px]">
+          <div className="flex flex-col-reverse gap-[40px] desktop1:flex-row desktop1:justify-between mx-auto w-[90%] max-w-[1215px] items-center pb-[64px] desktop1:pt-[68px] desktop1:pb-[96px]">
             <div className="flex flex-col w-full desktop1:w-[50%] desktop1:mr-[20px]">
               {/* MiniTag preta */}
               <MotionDivDownToUp>
@@ -123,7 +123,7 @@ export default function Quadrada({ appDownloadButtons, colorMode }) {
             <div className="flex justify-center w-full tablet1:w-[450px] desktop1:w-[42%] desktop2:w-[42.8%]">
               <MotionDivDownToUp className="relative flex justify-center w-full">
                 <div
-                  className="bg-top mt-[20px] desktop1:mt-0 rounded-xl w-full phone1:h-[300px] phone1:max-w-[300px] phone2:h-[355px] phone2:max-w-[355px] phone3:h-[405px] phone3:max-w-[405px] tablet1:h-[576px] tablet1:min-w-[576px] tablet2:h-[690px] tablet2:min-w-[690px] desktop1:h-[400px] desktop1:min-w-[200px] desktop2:h-[400px] desktop2:min-w-[400px] bg-cover bg-no-repeat desktop1:shadow-custom-opacity desktop1:shadow-shadowHero/30"
+                  className="bg-top mt-[20px] desktop1:mt-0 rounded-xl w-full phone1:h-[300px] phone1:max-w-[300px] phone2:h-[355px] phone2:max-w-[355px] phone3:h-[405px] phone3:max-w-[405px] tablet1:h-[576px] tablet1:min-w-[576px] tablet2:h-[690px] tablet2:min-w-[690px] desktop1:h-[400px] desktop1:min-w-[200px] desktop2:h-[400px] desktop2:min-w-[400px] bg-cover bg-no-repeat "
                   style={{
                     backgroundImage: `url(${content.texts.hero.heroDefaultImage})`,
                   }}

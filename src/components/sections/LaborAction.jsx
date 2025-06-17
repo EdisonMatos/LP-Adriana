@@ -73,7 +73,7 @@ export default function LaborAction({
             subtitleColorSet={subtitleColor}
           />
           <MotionDivDownToUp>
-            <p className="text-white text-opacity-80 -mt-7 mb-8 text-title4 desktop3:text-title5 phone1:leading-9 desktop3:leading-9 font-mainFont">
+            <p className="text-white text-opacity-80 -mt-7 mb-8 text-title4 desktop3:text-title5 phone1:leading-9 desktop3:leading-10 font-mainFont">
               {content.texts.laborAction.title}
             </p>
             <p className="text-white text-opacity-80 font-mainFont">
