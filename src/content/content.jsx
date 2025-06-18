@@ -129,18 +129,18 @@ const content = {
       miniTag: "ADVOGADA NO RIO DE JANEIRO E REGIÕES",
       title: (
         <h1 className="mb-[16px]">
-          Você tem ideia do que
-          <span className="text-primary"> deixou passar?</span>
+          Advocacia
+          <span className="text-primary"> especializada</span>
         </h1>
       ),
       subtitle:
-        "Muitos só descobrem seus direitos quando já é tarde demais. Você ainda tem tempo de agir.",
+        "Atuação jurídica com ética, clareza e dedicação às suas necessidades.",
       heroImgPhone: heroImgPhone, // img da pessoa mobile
       heroDesktop: heroImgDesktop, //bg com foto da pessoa
       heroImg: bgHeroImg, //fundo da Hero
       heroDefaultImage: heroDefaultImg, //imagem da heroDefault Mobile
       backgroundPerson: backgroundPersonMobile,
-      ctaButtonText: "Descubra agora",
+      ctaButtonText: "Atendimento",
       obsHero: {
         icon: (
           <svg
