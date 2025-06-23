@@ -129,8 +129,8 @@ const content = {
       miniTag: "ADVOGADA NO RIO DE JANEIRO E REGIÕES",
       title: (
         <h1 className="mb-[16px]">
-          Advocacia
-          <span className="text-primary"> especializada</span>
+          Adriana Sereno -
+          <span className="text-primary"> Advocacia especializada</span>
         </h1>
       ),
       subtitle:
@@ -140,7 +140,7 @@ const content = {
       heroImg: bgHeroImg, //fundo da Hero
       heroDefaultImage: heroDefaultImg, //imagem da heroDefault Mobile
       backgroundPerson: backgroundPersonMobile,
-      ctaButtonText: "Atendimento",
+      ctaButtonText: "Quero falar com a advogada",
       obsHero: {
         icon: (
           <svg
@@ -485,10 +485,10 @@ const content = {
       backgroundImg: ctaWhatsappImgBg,
       miniTag: "FALE CONOSCO",
       title:
-        "Enfrentando um problema jurídico? Deixe que cuidamos disso para você!",
+        "Enfrentando um problema jurídico? Deixe que a Dra. Adriana Sereno cuida disso para você!",
       subtitle:
         "Converse com nossa equipe. Estamos prontos para oferecer a orientação jurídica de que você precisa.",
-      ctaButtonText: "Entre em contato pelo WhatsApp",
+      ctaButtonText: "Quero falar com a advogada",
     },
     steps: {
       miniTag: "PASSO A PASSO",
