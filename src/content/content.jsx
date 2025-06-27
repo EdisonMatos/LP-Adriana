@@ -129,8 +129,8 @@ const content = {
       miniTag: "ADVOGADA NO RIO DE JANEIRO E REGIÕES",
       title: (
         <h1 className="mb-[16px]">
-          Adriana Sereno -
-          <span className="text-primary"> Advocacia especializada</span>
+          Advocacia especializada
+          <span className="text-primary"></span>
         </h1>
       ),
       subtitle:
