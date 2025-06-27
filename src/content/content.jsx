@@ -129,8 +129,8 @@ const content = {
       miniTag: "ADVOGADA NO RIO DE JANEIRO E REGIÕES",
       title: (
         <h1 className="mb-[16px]">
-          Adriana Sereno -
-          <span className="text-primary"> Advocacia especializada</span>
+          Advocacia especializada
+          <span className="text-primary"></span>
         </h1>
       ),
       subtitle:
@@ -404,7 +404,8 @@ const content = {
         <div>
           Atuo há cerca de 15 anos nas áreas trabalhista e previdenciária,
           sempre com o propósito de oferecer um atendimento humano, eficiente e
-          personalizado.
+          personalizado. Sou Adriana Sereno, e meu compromisso é estar ao lado
+          de cada cliente, entendendo suas necessidades de forma única.
           <br />
         </div>
       ),
@@ -413,23 +414,24 @@ const content = {
         <p>
           Atuo há cerca de 15 anos nas áreas trabalhista e previdenciária,
           sempre com o propósito de oferecer um atendimento humano, eficiente e
-          personalizado.
+          personalizado. Meu nome é Adriana Sereno, e meu foco é entender a
+          realidade de cada cliente para construir soluções claras, com empatia
+          e proximidade.
           <br />
           <br />
-          Meu foco é entender a realidade de cada cliente e construir soluções
-          claras, com empatia e proximidade. Aqui, cada caso é tratado com
-          atenção aos detalhes, porque sei que, por trás de cada processo,
-          existe uma história real — muitas vezes marcada por desafios
-          financeiros, como demissões ou dificuldades na aposentadoria.
+          Aqui, cada caso é tratado com atenção aos detalhes, porque sei que,
+          por trás de cada processo, existe uma história real — muitas vezes
+          marcada por desafios financeiros, como demissões ou dificuldades na
+          aposentadoria.
           <br />
           <br />
-          O escritório está mais moderno, mas minha essência continua a mesma:
-          compromisso com resultados, comunicação simples e um atendimento
-          direto, sem enrolação.
+          O escritório está mais moderno, mas a essência de Adriana Sereno
+          continua a mesma: compromisso com resultados, comunicação simples e um
+          atendimento direto, sem enrolação.
           <br />
           <br />
           Se você procura uma advogada acessível, experiente e que realmente se
-          importa, está no lugar certo.
+          importa, Adriana Sereno está no lugar certo.
           <br />
           <br />
         </p>
@@ -456,10 +458,12 @@ const content = {
     },
     laborAction: {
       miniTag: "ATUAÇÃO TRABALHISTA",
-      title:
-        " A Dra. Adriana Sereno atua na defesa do trabalhador, buscando garantir a reparação de injustiças e o reconhecimento dos direitos previstos em lei.",
+      title: " ",
       text: (
         <p>
+          Atuamos na defesa do trabalhador, buscando garantir a reparação de
+          injustiças e o reconhecimento dos direitos previstos em lei.
+          <br />
           <br /> DIREITO DO TRABALHO
           <br />⚖ Principais causas na justiça do trabalho:
           <br />
