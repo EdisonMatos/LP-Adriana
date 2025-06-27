@@ -456,10 +456,12 @@ const content = {
     },
     laborAction: {
       miniTag: "ATUAÇÃO TRABALHISTA",
-      title:
-        " A Dra. Adriana Sereno atua na defesa do trabalhador, buscando garantir a reparação de injustiças e o reconhecimento dos direitos previstos em lei.",
+      title: " ",
       text: (
         <p>
+          Atuamos na defesa do trabalhador, buscando garantir a reparação de
+          injustiças e o reconhecimento dos direitos previstos em lei.
+          <br />
           <br /> DIREITO DO TRABALHO
           <br />⚖ Principais causas na justiça do trabalho:
           <br />
