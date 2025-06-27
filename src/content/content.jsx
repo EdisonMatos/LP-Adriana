@@ -419,13 +419,6 @@ const content = {
           e proximidade.
           <br />
           <br />
-          Meu foco é entender a realidade de cada cliente e construir soluções
-          claras, com empatia e proximidade. Aqui, cada caso é tratado com
-          atenção aos detalhes, porque sei que, por trás de cada processo,
-          existe uma história real — muitas vezes marcada por desafios
-          financeiros, como demissões ou dificuldades na aposentadoria.
-          <br />
-          <br />
           Aqui, cada caso é tratado com atenção aos detalhes, porque sei que,
           por trás de cada processo, existe uma história real — muitas vezes
           marcada por desafios financeiros, como demissões ou dificuldades na
