@@ -194,7 +194,7 @@ const content = {
       imgDivisor: imgDivisor,
       card1: {
         img: featuresImg1,
-        title: "Direito do trabalho",
+        title: "Cada causa é única, e cada detalhe é essencial",
         subtitle: "Defesa em ações trabalhistas e orientações legais.",
         description: (
           <div>
@@ -402,38 +402,38 @@ const content = {
       labelX: "Siga-me no X",
       paragraph: (
         <div>
-          Atuo há cerca de 15 anos nas áreas trabalhista e previdenciária,
-          sempre com o propósito de oferecer um atendimento humano, eficiente e
-          personalizado. Sou Adriana Sereno, e meu compromisso é estar ao lado
-          de cada cliente, entendendo suas necessidades de forma única.
+          Me chamo ADRIANA SERENO, advogada especialista, com pós-graduação e
+          experiência há cerca de 15 anos, em especial nas áreas trabalhista e
+          previdenciária.
           <br />
+          Meu foco é entender a realidade de cada cliente para construir
+          soluções claras, com empatia e proximidade.
         </div>
       ),
       buttonModalLabelAbout: "Continuar lendo",
       modal: (
         <p>
-          Atuo há cerca de 15 anos nas áreas trabalhista e previdenciária,
-          sempre com o propósito de oferecer um atendimento humano, eficiente e
-          personalizado. Meu nome é Adriana Sereno, e meu foco é entender a
-          realidade de cada cliente para construir soluções claras, com empatia
-          e proximidade.
+          Me chamo ADRIANA SERENO, advogada especialista, com pós-graduação e
+          experiência há cerca de 15 anos, em especial nas áreas trabalhista e
+          previdenciária.
           <br />
           <br />
-          Aqui, cada caso é tratado com atenção aos detalhes, porque sei que,
-          por trás de cada processo, existe uma história real — muitas vezes
-          marcada por desafios financeiros, como demissões ou dificuldades na
-          aposentadoria.
+          Meu foco é entender a realidade de cada cliente para construir
+          soluções claras, com empatia e proximidade.
           <br />
           <br />
-          O escritório está mais moderno, mas a essência de Adriana Sereno
-          continua a mesma: compromisso com resultados, comunicação simples e um
-          atendimento direto, sem enrolação.
+          Tratamos cada caso com atenção aos detalhes, pois por trás de cada
+          processo, existe uma história real — muitas vezes marcada por desafios
+          financeiros, como demissões ou dificuldades na aposentadoria.
+          <br />
+          <br />
+          O escritório está mais moderno, mas a nossa essência continua a mesma:
+          compromisso com resultados, comunicação simples e um atendimento
+          direto e claro.
           <br />
           <br />
           Se você procura uma advogada acessível, experiente e que realmente se
-          importa, Adriana Sereno está no lugar certo.
-          <br />
-          <br />
+          importa, está no lugar certo.
         </p>
       ),
       ctaButtonAriaLabel: "Botão para entrar em contato",
@@ -464,15 +464,17 @@ const content = {
           Atuamos na defesa do trabalhador, buscando garantir a reparação de
           injustiças e o reconhecimento dos direitos previstos em lei.
           <br />
-          <br /> DIREITO DO TRABALHO
+          <br />
+          DIREITO DO TRABALHO
           <br />⚖ Principais causas na justiça do trabalho:
           <br />
           <br /> • Demissão por justa causa
-          <br />• Vínculo empregatício não reconhecido
+          <br /> Trabalho sem anotação da carteira
           <br />• Direitos da gestante
           <br />• Direitos do empregado doméstico
+          <br />• Direitos do empregado doméstico
           <br />• Adicionais (periculosidade, insalubridade, noturno)
-          <br />• Rescisões mal pagas ou não pagas
+          <br /> Verbas rescisórias, não pagas ou pagas a menor
           <br />
           <br />
           Orientação é o primeiro passo para fazer valer o que é seu por
@@ -489,7 +491,7 @@ const content = {
       backgroundImg: ctaWhatsappImgBg,
       miniTag: "FALE CONOSCO",
       title:
-        "Enfrentando um problema jurídico? Deixe que a Dra. Adriana Sereno cuida disso para você!",
+        "Enfrentando um problema jurídico? Deixe que cuidamos disso para você!",
       subtitle:
         "Converse com nossa equipe. Estamos prontos para oferecer a orientação jurídica de que você precisa.",
       ctaButtonText: "Quero falar com a advogada",
