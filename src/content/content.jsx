@@ -491,7 +491,7 @@ const content = {
       backgroundImg: ctaWhatsappImgBg,
       miniTag: "FALE CONOSCO",
       title:
-        "Enfrentando um problema jurídico? Deixe que a Dra. Adriana Sereno cuida disso para você!",
+        "Enfrentando um problema jurídico? Deixe que cuidamos disso para você!",
       subtitle:
         "Converse com nossa equipe. Estamos prontos para oferecer a orientação jurídica de que você precisa.",
       ctaButtonText: "Quero falar com a advogada",
