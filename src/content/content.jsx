@@ -464,15 +464,17 @@ const content = {
           Atuamos na defesa do trabalhador, buscando garantir a reparação de
           injustiças e o reconhecimento dos direitos previstos em lei.
           <br />
-          <br /> DIREITO DO TRABALHO
+          <br />
+          DIREITO DO TRABALHO
           <br />⚖ Principais causas na justiça do trabalho:
           <br />
           <br /> • Demissão por justa causa
-          <br />• Vínculo empregatício não reconhecido
+          <br /> Trabalho sem anotação da carteira
           <br />• Direitos da gestante
           <br />• Direitos do empregado doméstico
+          <br />• Direitos do empregado doméstico
           <br />• Adicionais (periculosidade, insalubridade, noturno)
-          <br />• Rescisões mal pagas ou não pagas
+          <br /> Verbas rescisórias, não pagas ou pagas a menor
           <br />
           <br />
           Orientação é o primeiro passo para fazer valer o que é seu por
