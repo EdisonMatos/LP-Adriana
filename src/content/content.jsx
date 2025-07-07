@@ -187,14 +187,14 @@ const content = {
     },
     features: {
       miniTag: "ESPECIALIDADES",
-      title: "Cada causa é única e cada detalhe, essencial",
+      title: "Cada causa é única e cada detalhe é essencial",
       subtitle:
         "Atuação estratégica para resolver o que realmente importa: seu problema.",
       imgFeatures: imgFeatures,
       imgDivisor: imgDivisor,
       card1: {
         img: featuresImg1,
-        title: "Cada causa é única, e cada detalhe é essencial",
+        title: "Direito do trabalho",
         subtitle: "Defesa em ações trabalhistas e orientações legais.",
         description: (
           <div>
@@ -469,12 +469,12 @@ const content = {
           <br />⚖ Principais causas na justiça do trabalho:
           <br />
           <br /> • Demissão por justa causa
-          <br /> Trabalho sem anotação da carteira
+          <br /> • Trabalho sem anotação da carteira
           <br />• Direitos da gestante
           <br />• Direitos do empregado doméstico
           <br />• Direitos do empregado doméstico
           <br />• Adicionais (periculosidade, insalubridade, noturno)
-          <br /> Verbas rescisórias, não pagas ou pagas a menor
+          <br />• Verbas rescisórias, não pagas ou pagas a menor
           <br />
           <br />
           Orientação é o primeiro passo para fazer valer o que é seu por
