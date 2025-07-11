@@ -472,7 +472,7 @@ const content = {
           <br /> • Trabalho sem anotação da carteira
           <br />• Direitos da gestante
           <br />• Direitos do empregado doméstico
-          <br />• Direitos do empregado doméstico
+          <br />• Adicionais (periculosidade, insalubridade, noturno)
           <br />• Adicionais (periculosidade, insalubridade, noturno)
           <br />• Verbas rescisórias, não pagas ou pagas a menor
           <br />
